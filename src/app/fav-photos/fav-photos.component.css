@@ -1,0 +1,14 @@
+h3 {
+   color: brown;
+}
+
+img {
+   margin: .3em;
+   width:  20em;
+   height: auto;
+   object-fit: cover;
+}
+
+.photos {
+   text-align: center;
+}
